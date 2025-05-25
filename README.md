@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Pedro Augusto 
+## Bem-vindo(a) ao meu perfil Pedro Augusto 
 
  <div>
    <a href="https://github.com/Pedrocs-Aug">
